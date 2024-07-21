@@ -40,7 +40,7 @@ The following Sanctum features are implemented in this Vue SPA:
 #### Clone the repository
 
 ```bash
-git clone https://github.com/irabbi360/laravel-vue3-spa-starter.git
+git clone https://github.com/coolboydev8/laravel-vue-starter.git
 ```
 
 #### Copy .env.example file to .env and edit credentials also set app url
